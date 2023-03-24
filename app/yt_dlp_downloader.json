@@ -1,0 +1,7 @@
+{
+  "name": "yt_dlp_downloader",
+  "description": "Host for yt_dlp_downloader",
+  "path": "<path>/firefox-youtube-downloader/app/yt_dlp_downloader.py",
+  "type": "stdio",
+  "allowed_extensions": ["yt-dlp-downloader@example.org"]
+}

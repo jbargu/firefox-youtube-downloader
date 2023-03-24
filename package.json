@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "web-ext": "^7.6.0"
+  },
+  "scripts": {
+    "build": "web-ext build --source-dir ./add-on/",
+    "start": "web-ext run --source-dir ./add-on/"
+  }
+}
