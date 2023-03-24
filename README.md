@@ -7,7 +7,7 @@ The native application, which can be found under "app", listens for messages fro
 
 ## Setup ##
 
-To get this working, there's a little setup to do.
+To get this working, there's a little setup to do. The signed `.xpi` file can be downloaded from [the release page](https://github.com/jbargu/firefox-youtube-downloader/releases/tag/v1.0.0).
 
 ### Mac OS/Linux setup ###
 
